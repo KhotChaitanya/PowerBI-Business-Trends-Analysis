@@ -1,6 +1,15 @@
 # PowerBI-Business-Trends-Analysis
 This project involves exploring business trends using Microsoft's Power BI tool. The project aims to analyze sales data from the Global Superstore database.
 
+## Project Preview
+Below are some screenshots of the project:
+
+![image](https://github.com/KhotChaitanya/PowerBI-Business-Trends-Analysis/assets/93645318/8cb1417c-b6a2-4efa-9fe8-fff530c94be4)
+![image](https://github.com/KhotChaitanya/PowerBI-Business-Trends-Analysis/assets/93645318/c88f3736-4d29-43f6-82d9-898158fdb3ed)
+![image](https://github.com/KhotChaitanya/PowerBI-Business-Trends-Analysis/assets/93645318/b88c0524-dbb2-4bb0-8761-460db645ef43)
+![image](https://github.com/KhotChaitanya/PowerBI-Business-Trends-Analysis/assets/93645318/3d5fd32d-b0e0-4f59-a6b9-8a7742b1d7b2)
+![image](https://github.com/KhotChaitanya/PowerBI-Business-Trends-Analysis/assets/93645318/5f185b8e-2405-4207-bb60-f3278099e18d)
+
 
 ## Project Details
 - The project was initiated with an understanding of the Business Intelligence life cycle, the importance of data visualization to the industry, and the need for visualization.
